@@ -1,22 +1,24 @@
-Fala, Dev! 💻
+Hi, Dev! 💻
 
-Seja muito bem-vindo (a) ao meu perfil!
+Be very welcome to my profile!
 
-Estou, atualmente, cursando um bacharelado em engenharia eletrônica⚡,
-juntamente de um técnico em mecatrônica 🤖, no Senai SP, em SCS
+My name is Carolina de Abreu, from Brazil 🇧🇷
 
-Como também, no tempo livre, entre faculdade e técnico, faço alguns cursos e desenvolvo aplicações web, nas áreas de front com um pouquinho de back end
+I am currently pursuing a bachelor's degree in electronic engineering⚡,
+together with a mechatronics technician 🤖, at Senai SP, in SCS
+
+As well, in my free time, between college and technician, I take some courses and develop web applications, in the front end areas with a little back end too.
 
 • Jr Full Stack Developer
 
 • Jr Front End Developer
 
-Buscando um estágio na área de TI, conseguindo assim demonstrar todo meu amor pela tecnologia, com muita força de vontade para aprender!
+Seeking an internship in the IT area, thus showing all my love for technology, with a lot of willpower to learn!
 
-Mas horas vagas, costumo escutar muita música ▶️, 
-codar um pouquinho 👩‍💻 (pra variar, né?) 
-e ficar com minha família e amigos!
+But free time, I usually listen to a lot of music ▶ ️,
+code a little 👩‍💻 (for a change, right?)
+and stay with my family and friends!
 
-Curtiu? Valeu pela visita! 👋♥️
+Did you like it? Thanks for the visit! 👋 ♥ ️
 
-Se puder, dá uma olhadinha nos projetos! 
+If you can, take a look at the projects!
