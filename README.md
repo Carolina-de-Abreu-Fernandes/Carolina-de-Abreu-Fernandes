@@ -1,16 +1,22 @@
-### Hi there 👋
+Fala, Dev! 💻
 
-<!--
-**Carolina-de-Abreu-Fernandes/Carolina-de-Abreu-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vindo (a) ao meu perfil!
 
-Here are some ideas to get you started:
+Estou, atualmente, cursando um bacharelado em engenharia eletrônica⚡,
+juntamente de um técnico em mecatrônica 🤖, no Senai SP, em SCS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Como também, no tempo livre, entre faculdade e técnico, faço alguns cursos e desenvolvo aplicações web, nas áreas de front com um pouquinho de back end
+
+• Jr Full Stack Developer
+
+• Jr Front End Developer
+
+Buscando um estágio na área de TI, conseguindo assim demonstrar todo meu amor pela tecnologia, com muita força de vontade para aprender!
+
+Mas horas vagas, costumo escutar muita música ▶️, 
+codar um pouquinho 👩‍💻 (pra variar, né?) 
+e ficar com minha família e amigos!
+
+Curtiu? Valeu pela visita! 👋♥️
+
+Se puder, dá uma olhadinha nos projetos! 
