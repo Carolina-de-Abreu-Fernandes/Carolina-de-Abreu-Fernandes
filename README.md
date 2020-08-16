@@ -23,4 +23,4 @@ Did you like it? Thanks for the visit! 👋 ♥ ️
 
 If you can, take a look at the projects!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-de-abreu-fernandes-287905181/)](https://www.linkedin.com/in/carolina-de-abreu-fernandes-287905181/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-de-abreu-fernandes-287905181/)](https://www.linkedin.com/in/carolina-de-abreu-fernandes/)
