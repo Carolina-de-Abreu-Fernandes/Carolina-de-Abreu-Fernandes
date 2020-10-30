@@ -4,7 +4,7 @@ Be very welcome to my profile!
 
 My name is Carolina de Abreu, from Brazil 🇧🇷
 
-I am currently pursuing a bachelor's degree in electronic engineering⚡,
+I am currently pursuing a graduation's degree in electronic engineering⚡,
 together with a mechatronics technician 🤖, at Senai SP, in SCS
 
 As well, in my free time, between college and technician, I take some courses and develop web applications, in the front end areas with a little back end too.
